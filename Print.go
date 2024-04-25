@@ -1,5 +1,5 @@
 package subsubGM
 
 func Print() string {
-	return "subsubGM 1.0.0"
+	return "subsubGM 2.0.0"
 }
